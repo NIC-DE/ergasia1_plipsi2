@@ -1,2 +1,2 @@
 # ergasia1_plipsi2
-# VHDL
+# VHDL  FOR SIMPLE CPU
